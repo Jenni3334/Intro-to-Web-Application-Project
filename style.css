@@ -1,0 +1,12 @@
+h1,
+h2, 
+body{
+    background-color: chocolate;
+}
+.main {
+    grid-area: header;
+    background-color: #f1f1f1;
+    padding: 30px;
+    text-align: center;
+    font-size: 35px;
+}
