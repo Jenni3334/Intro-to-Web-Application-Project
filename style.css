@@ -34,9 +34,17 @@
     border: 1px solid #ddd;
     padding: 10px;
   }
-  .flavor {
-    font-size: 20px;
-}
+ 
 .price {
     font-weight: bold;
+}
+.flavor{
+    text-decoration: underline;
+    font-size: 20px;
+}
+.status{
+    background-color: grey;
+    border: 1px solid grey;
+    padding: 1px;
+    border-radius: 1rem;
 }
