@@ -16,18 +16,22 @@
     margin:0;
     padding: 0;
   }
+  h2{
+    text-decoration: underline;
+  }
   .cookie img {
     height: 200px;
     width: auto;
   }
 
-  .store {
+  /* .store {
     max-width: 800px;
     margin: 20px auto;
     padding: 20px;
     background-color: #fff;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-  }
+    float: left;
+  } */
   .cookie {
     display: flex;
     margin: 20px 0;
@@ -47,4 +51,7 @@
     border: 1px solid grey;
     padding: 1px;
     border-radius: 1rem;
+}
+.user{
+    float: right;
 }
